@@ -138,6 +138,3 @@ Detected: 3 faces
 Sleeping Persons: 2
 Predicted Ages: 24, 35
 ```
-
-**Shivam Sharma**  
-[GitHub Profile](https://github.com/shivam15112003)
