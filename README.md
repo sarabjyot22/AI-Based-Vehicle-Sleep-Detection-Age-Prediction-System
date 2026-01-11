@@ -130,11 +130,3 @@ Upload any image through the GUI and see both sleep status and predicted age for
 - Integration with alert systems for live vehicle monitoring.
 
 ---
-
-## 📷 Sample Output
-
-```
-Detected: 3 faces
-Sleeping Persons: 2
-Predicted Ages: 24, 35
-```
